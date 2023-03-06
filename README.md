@@ -1,2 +1,3 @@
-# 3DPshare
-files for 3D Printing
+MOJO 8085 is happy to share these files for 3D Printing.
+
+We use a Markforged Onyx One (using Onyx) and a Makerbot Replicator (using ABS) for our parts.
